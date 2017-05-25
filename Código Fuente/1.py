@@ -1,4 +1,4 @@
-
+#----------|PROYECTO FINAL| ROAD FIGHTER | JULIAN ANDRÉS LOAIZA OSPINA |--------------------------------#
 from tkinter import *
 from tkinter import ttk, font
 import time
@@ -146,7 +146,7 @@ def multi_player():
         play_multijugador()
     
     #----------------------------------------------------------------------
-    
+
 #Continue|-------------------------
 
 def _continue_():
