@@ -1,4 +1,5 @@
 #----------|PROYECTO FINAL| ROAD FIGHTER | JULIAN ANDRÉS LOAIZA OSPINA |--------------------------------#
+
 from tkinter import *
 from tkinter import ttk, font
 import time
@@ -37,6 +38,7 @@ def main_menu():
     raiz.title("Road Fighter")
     raiz.geometry("800x600")
     raiz.resizable(width=False, height=False)
+    bit = raiz.iconbitmap('RoadFighter.ico')
     
     #|Fuente|---------------------------------------------------
 
