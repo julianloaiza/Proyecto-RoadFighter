@@ -1,0 +1,1 @@
+pyinstaller -i "C:\Users\Usuario\Documents\GitHub\Proyecto-RoadFighter\Código Fuente\RoadFighter.ico" "Road Fighter.py"

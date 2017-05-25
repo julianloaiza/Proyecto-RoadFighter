@@ -1,1 +1,0 @@
-pyinstaller "1.py"
